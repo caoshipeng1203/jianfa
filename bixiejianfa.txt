@@ -1,5 +1,6 @@
 欲练此功
 
+<<<<<<< HEAD
 buziaiii
 
 sevcsd
@@ -7,3 +8,6 @@ dfsd
 
 erewvrfe
 
+bixianzigong
+
+yaoliancigong bugongyeke
